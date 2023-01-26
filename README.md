@@ -2,8 +2,11 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMDongH&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMDongH&show_icons=true&theme=radical&count_private=true)  
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=IMDongH&theme=radical&hide_border=true&fire=red&sideNums=red)<br/>
+![Dong's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMDongH)
+
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IMDongH&show_icons=true&title_color=000000&text_color=000000&locale=en&layout=compact&hide_border=true" alt="jiseung-kang" />  
+<br/>
 </div>
 
