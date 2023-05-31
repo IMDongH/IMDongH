@@ -7,7 +7,7 @@
 
 
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IMDongH&show_icons=true&title_color=000000&text_color=000000&locale=en&layout=compact&hide_border=true" alt="jiseung-kang" />  
+
 <br/>
 </div>
 
